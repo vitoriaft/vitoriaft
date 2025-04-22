@@ -1,10 +1,64 @@
-### Olá! Eu sou a vitória. Bem vindo(a) ao meu perfil! 👋
+<!-- Banner com seu nome (pode hospedar a imagem em um repositório ou no próprio GitHub) -->
+<p align="center">
+  <img src="[https://github.com/claraferrerabatista/seu-repositorio/blob/main/imagem-com-nome.png](https://github.com/vitoriaft/vitoriaft/blob/main/Card.jpg)" alt="Vitória Teixeira"/>
+</p>
 
-## Conecte-se comigo!
+---
 
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail)](https://www.Gmail.com/in/vitóriadefatima25@gmail.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/https://www.linkedin.com/in/www.linkedin.com/in/vitóriateixeiralinked/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/vitóriateixeira#3997/)
+### 🧠 Sobre mim
 
-## Habilidades
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+Olá! Pode me chamar de **Vitória** 👩‍🔬  
+Sou graduanda no ultimo semetre em **Cientista de Dados e IA** 
+
+- **Python**, **R**, **SQL**
+- **Modelagem Preditiva**
+- **Visualização de Dados**
+- **Machine Learning**
+- **Microsoft Power BI**, **Tableau**, **Microsoft Azure**
+
+### 🧠 O que estou aprendendo 
+
+- Tableau
+- DP-100
+
+### 📁 Repositórios
+
+#### 🐍 PUC
+
+- [Exploração básica de Dados](#)
+- [Exemplo de uso do Pipeline em Machine Learning](#)
+- [Explorando Estruturas de Dados](#)
+- [Condicionais, Métodos e Funções](#)
+- [List Comprehension e Função Lambda](#)
+- [Análise Exploratória - Mini Projeto](#)
+- [Web Scraping com Selenium](#)
+
+#### 📊 Bootcamps
+
+- [Exercícios do Curso Big Data Analytics com R e Azure](#)
+- [Introduction to Probability and Data with R - Duke University](#)
+- [Análise Exploratória - Risco de Crédito](#)
+
+#### 📈 Pessoais
+
+- [Dashboard com Power BI](#)
+- [Painel interativo com Tableau](#)
+
+---
+
+### 🛠️ Principais Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+</p>
+
+---
+
+
