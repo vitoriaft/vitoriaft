@@ -9,11 +9,7 @@
 Olá! Pode me chamar de **Vitória** 👩‍🔬  
 Sou graduanda no ultimo semetre em **Cientista de Dados e IA** 
 
-- **Python**, **R**, **SQL**
-- **Modelagem Preditiva**
-- **Visualização de Dados**
-- **Machine Learning**
-- **Microsoft Power BI**, **Tableau**, **Microsoft Azure**
+ooo
 
 ### 🧠 O que estou aprendendo 
 
@@ -22,15 +18,15 @@ Sou graduanda no ultimo semetre em **Cientista de Dados e IA**
 
 ### 📁 Repositórios
 
-#### 🐍 PUC
+####  PUC
 
 - [-](#)
 -
-#### 📊 Bootcamps
+####  Bootcamps
 
 -
 
-#### 📈 Pessoais
+####  Pessoais
 
 -
 
