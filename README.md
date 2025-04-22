@@ -1,7 +1,6 @@
 <!-- Banner com seu nome (pode hospedar a imagem em um repositório ou no próprio GitHub) -->
-<p align="center">
-  <img src="[https://github.com/claraferrerabatista/seu-repositorio/blob/main/imagem-com-nome.png](https://github.com/vitoriaft/vitoriaft/blob/main/Card.jpg)">
-</p>
+![Card](https://github.com/vitoriaft/vitoriaft/blob/main/Card.jpg?raw=true)
+
 
 ---
 
