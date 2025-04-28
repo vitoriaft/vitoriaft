@@ -7,13 +7,13 @@
 ### 🧠 Sobre mim
 
 Olá! Pode me chamar de **Vitória** 👩‍🔬  
-Sou graduanda no ultimo semetre em **Cientista de Dados e IA** 
+Sou graduanda no ultimo semetre em **Ciência de Dados e IA** e apaixonada em trazer soluções através dos dados 
 
 ooo
 
 ### 🧠 O que estou aprendendo 
 
-- Tableau
+- Tableau e Power BI 
 - DP-100
 
 ### 📁 Repositórios
