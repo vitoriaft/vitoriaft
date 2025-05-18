@@ -18,19 +18,8 @@ ooo
 
 ### 📁 Repositórios
 
-####  PUC
+- 
 
-- [-](#)
--
-#### 📁 Bootcamps
-
--
-
-####  📁 Pessoais
-
--
-
----
 
 ### 🛠️ Principais Tecnologias e Ferramentas
 
