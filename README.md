@@ -14,11 +14,6 @@ ooo
 ### O que estou aprendendo 
 
 - Tableau e Power BI 
-- DP-100
-
-### 📁 Repositórios
-
-- 
 
 
 ### 🛠️ Principais Tecnologias e Ferramentas
