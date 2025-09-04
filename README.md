@@ -7,13 +7,13 @@
 ###  Sobre mim
 
 Olá! Pode me chamar de **Vitória** 👩‍🔬  
-Sou graduanda no ultimo semetre em **Ciência de Dados e IA** e apaixonada em trazer soluções através dos dados 
+Graduada em Ciência de Dados e Inteligência Artificial.
 
 ooo
 
 ### O que estou aprendendo 
 
-- Tableau e Power BI 
+- AWS (Computação em Nuvem)
 
 
 ### 🛠️ Principais Tecnologias e Ferramentas
