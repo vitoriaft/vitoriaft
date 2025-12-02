@@ -15,18 +15,16 @@ Atualmente focada em Cloud, Machine Learning e projetos práticos em Ciência de
 
 
 ## O que estou estudando atualmente
-- AWS Cloud (serviços essenciais e boas práticas)
+- AWS Cloud 
 - Machine Learning e modelagem preditiva
 - IA Generativa e fundamentos de LLMs
 
-## Certificações
 
 ## Certificações
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/1234aad1-65b2-43d9-af2a-055d11ca3483/public_url)
 
 
-## Ferramentas
 ## Tecnologias e Ferramentas
 
 <p align="left">
@@ -36,8 +34,9 @@ Atualmente focada em Cloud, Machine Learning e projetos práticos em Ciência de
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="50" title="PySpark" />
+  <img src="https://img.shields.io/badge/RTB-000000?style=for-the-badge" height="38" />
 </p>
-
 
 ---
 
