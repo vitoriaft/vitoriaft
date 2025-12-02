@@ -9,10 +9,6 @@
 
 ---
 
-###  Sobre mim
-
-## Sobre mim
-
 ## Sobre mim
 Graduada em Ciência de Dados e Inteligência Artificial pela PUC-SP.  
 Atualmente focada em Cloud, Machine Learning e projetos práticos em Ciência de Dados.
