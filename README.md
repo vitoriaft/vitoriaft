@@ -34,9 +34,9 @@ Atualmente focada em Cloud, Machine Learning e projetos práticos em Ciência de
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="50" title="PySpark" />
-  <img src="https://img.shields.io/badge/RTB-000000?style=for-the-badge" height="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="50" title="PySpark" />
 </p>
+
 
 ---
 
