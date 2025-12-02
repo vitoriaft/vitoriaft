@@ -17,7 +17,6 @@ Atualmente focada em Cloud, Machine Learning e projetos práticos em Ciência de
 ## O que estou estudando atualmente
 - AWS Cloud 
 - Machine Learning e modelagem preditiva
-- IA Generativa e fundamentos de LLMs
 
 
 ## Certificações
