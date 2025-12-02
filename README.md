@@ -1,6 +1,6 @@
 <!-- Banner com seu nome (pode hospedar a imagem em um repositório ou no próprio GitHub) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=32&duration=2500&pause=800&color=3C3C3C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 
