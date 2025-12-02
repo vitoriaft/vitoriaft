@@ -25,7 +25,7 @@ Atualmente focada em Cloud, Machine Learning e projetos práticos em Ciência de
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/1234aad1-65b2-43d9-af2a-055d11ca3483/public_url)
 
 
-## Tecnologias e Ferramentas
+## Ferramentas e tecnologias
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
