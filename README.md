@@ -25,7 +25,7 @@ Atualmente focada em Cloud, Machine Learning e projetos práticos em Ciência de
 
 
 
-## Tecnologias e Ferramentas
+## Ferramentas
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
